@@ -1,2 +1,2 @@
-# nodex
-Node example app with tests, for testing CI
+# NodEx
+An example Node application with some tests.

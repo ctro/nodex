@@ -1,0 +1,24 @@
+{
+  "name": "nodex",
+  "version": "1.0.0",
+  "description": "An example Node application with some tests.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctro/nodex.git"
+  },
+  "author": "ctro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctro/nodex/issues"
+  },
+  "homepage": "https://github.com/ctro/nodex#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
